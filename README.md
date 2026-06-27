@@ -6,24 +6,23 @@ A comprehensive Customer Segmentation project using Python, Pandas, NumPy, Matpl
 
 # Table of Contents
 
-- Overview
-- Business Problem
-- Dataset
-- Tools & Technologies
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering (RFM Analysis)
-- Customer Segmentation
-- Cluster Profiling
-- Key Insights
-- Business Recommendations
-- Marketing Actions
-- Project Structure
-- How to Run
-- Future Improvements
-- Author
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Feature Engineering (RFM Analysis)](#feature-engineering-rfm-analysis)
+- [Customer Segmentation](#customer-segmentation)
+- [Cluster Profiling](#cluster-profiling)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Marketing Actions](#marketing-actions)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
 
----
 
 # Overview
 
