@@ -226,29 +226,6 @@ Visualizations include:
 
 ---
 
-# Project Structure
-
-```
-Customer-Segmentation/
-│
-├── Dataset/
-│   └── OnlineRetail.csv
-│
-├── Notebook/
-│   └── Customer_Segmentation.ipynb
-│
-├── Images/
-│   ├── Elbow_Method.png
-│   ├── Cluster_Profile.png
-│   ├── Monthly_Sales.png
-│   ├── Revenue_by_Country.png
-│   └── Customer_Clusters.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 # How to Run
 
