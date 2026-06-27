@@ -271,6 +271,5 @@ Customer_Segmentation.ipynb
 Email:sayamstuti594@gmail.com
 LinkdedIn-www.linkedin.com/in/sayam-stuti-shuvadarsini-8089b43a4
 
-Data Science | Machine Learning | Customer Analytics
 
-If you found this project helpful, consider giving it a ⭐ on GitHub!
+
